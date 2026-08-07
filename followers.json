@@ -1,0 +1,49 @@
+{
+  "last_updated": "2026-08-05T23:55:49Z",
+  "platforms": {
+    "instagram": {
+      "followers": 0,
+      "label": "followers",
+      "stale": true
+    },
+    "tiktok": {
+      "followers": 1,
+      "label": "followers",
+      "stale": false
+    },
+    "twitter": {
+      "followers": 0,
+      "label": "followers",
+      "stale": true
+    },
+    "youtube": {
+      "followers": 0,
+      "label": "subscribers",
+      "stale": true
+    },
+    "twitch": {
+      "followers": 0,
+      "label": "followers",
+      "stale": true
+    },
+    "linkedin": {
+      "followers": 0,
+      "label": "followers",
+      "stale": true
+    },
+    "soundcloud": {
+      "followers": 0,
+      "label": "followers",
+      "stale": true
+    },
+    "spotify": {
+      "followers": 0,
+      "label": "monthly listeners",
+      "stale": true
+    },
+    "ytmusic": {
+      "followers": 0,
+      "label": "streams"
+    }
+  }
+}

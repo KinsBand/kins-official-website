@@ -1,0 +1,15 @@
+{
+  "short_name": "Kins",
+  "name": "Kins Official Link in Bio",
+  "icons": [
+    {
+      "src": "/pfp.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0b1f18",
+  "theme_color": "#53c678",
+  "display": "standalone"
+}
