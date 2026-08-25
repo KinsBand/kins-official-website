@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T04:40:11Z",
+  "last_updated": "2026-08-25T05:32:43Z",
   "platforms": {
     "instagram": {
       "followers": 0,
@@ -7,9 +7,9 @@
       "stale": true
     },
     "tiktok": {
-      "followers": 1,
+      "followers": 2,
       "label": "followers",
-      "stale": true
+      "stale": false
     },
     "twitter": {
       "followers": 0,
